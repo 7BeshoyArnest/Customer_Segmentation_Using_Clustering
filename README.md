@@ -33,25 +33,25 @@ Visualize clusters for business insights
 ⚙️ Methods Used
 Data Preprocessing:
 
-Encoding categorical features (e.g., Gender)
-
-Feature scaling (StandardScaler / MinMaxScaler)
+  Encoding categorical features (e.g., Gender)
+  
+  Feature scaling (StandardScaler / MinMaxScaler)
 
 Clustering Techniques:
 
-K-Means Clustering
-
-Agglomerative Hierarchical Clustering
-
-DBSCAN
+  K-Means Clustering
+  
+  Agglomerative Hierarchical Clustering
+  
+  DBSCAN
 
 Evaluation:
 
-Elbow Method (WCSS)
-
-Silhouette Score
-
-Dendrogram for Hierarchical Clustering
+  Elbow Method (WCSS)
+  
+  Silhouette Score
+  
+  Dendrogram for Hierarchical Clustering
 
 📉 Visualization
 
