@@ -7,7 +7,7 @@ Customer segmentation is a powerful marketing tool that helps businesses underst
 In this project, we use clustering algorithms such as K-Means, Hierarchical Clustering, and DBSCAN to divide customers into meaningful groups based on their attributes.
 
 📊 Dataset
-Source: Mall Customer Segmentation Dataset – Kaggle
+Source: https://www.kaggle.com/code/kushal1996/customer-segmentation-k-means-analysis/input
 
 Attributes:
 
