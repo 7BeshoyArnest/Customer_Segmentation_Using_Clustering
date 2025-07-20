@@ -60,3 +60,12 @@ Evaluation:
 Dendrogram for hierarchical clustering
 
 Heatmaps and pair plots to show correlation
+
+📌 Key Insights
+Optimal number of clusters for K-Means: 3 or 5 based on silhouette score and elbow method
+
+DBSCAN worked poorly on sparse data due to density assumptions
+
+Clusters reflected high vs low spenders, and younger vs older customers
+
+
