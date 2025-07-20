@@ -54,6 +54,7 @@ Silhouette Score
 Dendrogram for Hierarchical Clustering
 
 📉 Visualization
+
 2D scatter plots for clusters
 
 Dendrogram for hierarchical clustering
